@@ -1,6 +1,6 @@
 Jsoup学习笔记 
 ------
-**Jsoup**是Java世界的一款HTML解析工具，它支持用CSS Selector方式选择DOM元素，也可过滤HTML文本，防止XSS攻击。
+**[Jsoup](http://jsoup.org/)**是Java世界的一款HTML解析工具，它支持用CSS Selector方式选择DOM元素，也可过滤HTML文本，防止XSS攻击。
 
 学习Jsoup是为了更好的开发我的另一个爬虫框架[webmagic](https://github.com/code4craft/webmagic)，为了学的比较详细，就强制自己用很规范的方式写出这部分文章。
 
